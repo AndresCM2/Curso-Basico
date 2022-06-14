@@ -14,5 +14,6 @@ zxcvdfdgsf
 * [Zen de python](https://www.python.org/dev/peps/pep-0020/)
 * [Documentacion](https://docs.python.org/3/)
 * [PEP 8](https://www.python.org/dev/peps/pep-0008)
+* [Lambda](https://docs.python.org/3/tutorial/controlflow.html?highlight=lambda#lambda-expressions)c
   
 
